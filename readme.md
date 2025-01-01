@@ -20,9 +20,9 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 ## 📋 Project List
 
-[//]: # (### Variable, expressions, and statements)
+### Variable, expressions, and statements
 
-[//]: # (1. Greeting using variable)
+1. Greeting using variable
 
 [//]: # (2. Band name generator)
 
