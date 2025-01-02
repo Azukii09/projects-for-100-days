@@ -24,7 +24,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 1. Greeting using variable
 
-[//]: # (2. Band name generator)
+2. Band name generator
 
 [//]: # (3. Gross pay)
 
