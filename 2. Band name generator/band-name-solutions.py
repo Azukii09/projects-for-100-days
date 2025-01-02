@@ -8,4 +8,4 @@ color = input("What's your favorite color? ")
 animal = input("What's your favorite animal? ")
 
 # 4. Combine the name of their favorite color and animal and show them their group name.
-print(f"Your group name could be {color} {animal}")
+print(f"Your group name could be {color} {animal}s")
