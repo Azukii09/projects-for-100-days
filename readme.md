@@ -26,7 +26,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 2. Band name generator
 
-[//]: # (3. Gross pay)
+3. Gross pay
 
 [//]: # (4. Celsius to Fahrenheit)
 
