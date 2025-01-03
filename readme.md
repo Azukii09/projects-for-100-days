@@ -28,7 +28,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 3. Gross pay
 
-[//]: # (4. Celsius to Fahrenheit)
+4. Celsius to Fahrenheit
 
 [//]: # (5. Trip cost calculator)
 
