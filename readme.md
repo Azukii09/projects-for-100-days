@@ -30,7 +30,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 4. Celsius to Fahrenheit
 
-[//]: # (5. Trip cost calculator)
+5. Trip cost calculator
 
 [//]: # ()
 [//]: # (### Conditional execution)
