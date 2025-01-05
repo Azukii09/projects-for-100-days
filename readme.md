@@ -32,10 +32,9 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 5. Trip cost calculator
 
-[//]: # ()
-[//]: # (### Conditional execution)
+### Conditional execution
 
-[//]: # (6. Gross pay with overtime)
+6. Gross pay with overtime
 
 [//]: # (7. Leap year)
 
