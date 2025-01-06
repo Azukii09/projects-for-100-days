@@ -36,7 +36,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 6. Gross pay with overtime
 
-[//]: # (7. Leap year)
+7. Leap year
 
 [//]: # (8. Love calculator)
 
