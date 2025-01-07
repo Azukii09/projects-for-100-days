@@ -38,7 +38,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 7. Leap year
 
-[//]: # (8. Love calculator)
+8. Love calculator
 
 [//]: # (9. Gross programming using try and except)
 
