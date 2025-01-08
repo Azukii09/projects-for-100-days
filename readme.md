@@ -40,7 +40,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 8. Love calculator
 
-[//]: # (9. Gross programming using try and except)
+9. Gross programming using try and except
 
 [//]: # (10. Score checker)
 
