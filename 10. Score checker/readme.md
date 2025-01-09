@@ -3,6 +3,7 @@
 ## 📚 **Instructions**
 Write a program that prompts the user for a **score** between **0.0 and 1.0**. If the score is out of range, the program should print an **error message**. If the score is within the valid range, it should print a **grade** based on the following table:
 
+
 | **Grade** | **Score** |
 |-----------|-----------|
 | A         | >= 0.9    |
