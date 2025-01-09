@@ -42,7 +42,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 9. Gross programming using try and except
 
-[//]: # (10. Score checker)
+10. Score checker
 
 [//]: # ()
 [//]: # (### Function)
