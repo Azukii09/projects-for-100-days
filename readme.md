@@ -45,9 +45,9 @@ This repository will be updated **daily** with new code examples, challenges, an
 10. Score checker
 
 [//]: # ()
-[//]: # (### Function)
+### Function
 
-[//]: # (11. Leap year with functions)
+11. Leap year with functions
 
 [//]: # (12. Gross pay with functions)
 
