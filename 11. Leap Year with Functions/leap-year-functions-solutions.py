@@ -7,12 +7,16 @@ def is_leap_year(year):
         if year % 100 == 0:
             # unless the year is also evenly divisible by 400
             if year % 400 == 0:
+                #return "Leap Year" value to output
                 return "Leap Year."
             else:
+                #return "Not Leap Year" value to output
                 return "Not Leap Year."
         else:
+            #return "Leap Year" value to output
             return "Leap Year."
     else:
+        #return "Not Leap Year" value to output
         return "Not Leap Year."
 # make variable input to input year
 year_input = int(input("Please input year: "))
