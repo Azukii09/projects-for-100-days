@@ -49,7 +49,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 11. Leap year with functions
 
-[//]: # (12. Gross pay with functions)
+12. Gross pay with functions
 
 [//]: # (13. Cold, Warm, and Hot)
 
