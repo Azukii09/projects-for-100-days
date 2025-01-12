@@ -1,3 +1,4 @@
+#defines a function to determine cold, warm and hot criteria
 def cold_warm_hot(n):
     if n > 28:
         return "Hot"
@@ -6,5 +7,8 @@ def cold_warm_hot(n):
     else:
         return "Cold"
 
+#user input
 temp = int(input("Enter Temperature: "))
+# Print output to the standard output device.
+#with calling the function
 print(cold_warm_hot(temp))
