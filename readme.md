@@ -51,7 +51,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 12. Gross pay with functions
 
-[//]: # (13. Cold, Warm, and Hot)
+13. Cold, Warm, and Hot
 
 [//]: # (14. Maximum of three numbers)
 
