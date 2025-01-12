@@ -8,13 +8,22 @@ Hint: overtime = hour - 40
 ### 📝 Input
 >1
 >```
->Enter Hours: 35
->Enter Rate ($): 5
+>> Enter Hours: 35
+>> Enter Rate ($): 5
 >```
 >2
 >```
->Enter Hours: 45
->Enter Rate ($): 5
+>> Enter Hours: 45
+>> Enter Rate ($): 5
+>```
+>3
+>```
+>> Enter Hours: Ten
+>```
+>4
+>```
+>> Enter Hours: 10
+>> Enter Rate ($): Five
 >```
 
 ### 📤 Output
@@ -25,6 +34,14 @@ Hint: overtime = hour - 40
 >2
 >```
 >> you must be paid the following amount: $ 232.5
+>```
+>3
+>```
+>> Error, please enter numeric input for Hours
+>```
+>4
+>```
+>> Error, please enter numeric input for Rate
 >```
 
 Happy Coding! 🚀✨
