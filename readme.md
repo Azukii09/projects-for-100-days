@@ -53,7 +53,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 13. Cold, Warm, and Hot
 
-[//]: # (14. Maximum of three numbers)
+14. Maximum of three numbers
 
 [//]: # ()
 [//]: # (### Iteration)
