@@ -56,9 +56,9 @@ This repository will be updated **daily** with new code examples, challenges, an
 14. Maximum of three numbers
 
 [//]: # ()
-[//]: # (### Iteration)
+### Iteration
 
-[//]: # (15. Dice rolling simulator)
+15. Dice rolling simulator
 
 [//]: # (16. Fizz Buzz Game)
 
