@@ -60,7 +60,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 15. Dice rolling simulator
 
-[//]: # (16. Fizz Buzz Game)
+16. Fizz Buzz Game
 
 [//]: # (17. Guessing the number)
 
