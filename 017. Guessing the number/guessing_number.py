@@ -15,7 +15,10 @@ print(f"     You've only  {chance}  chances to guess the integer!")
 
 for i in range(1,chance+1):
     guess_number = int(input("Guess a number: "))
-    if guess_number < number:
+    if guess_number == number:
+        print(f"Congratulations you did it in  {chance}  try")
+        break
+    elif guess_number < number:
         print("You guessed too small!")
         if i == chance:
             print(finish_wrong(chance))
@@ -25,6 +28,3 @@ for i in range(1,chance+1):
         if i == chance:
             print(finish_wrong(chance))
         continue
-    elif guess_number == number:
-        print(f"Congratulations you did it in  {chance}  try")
-        break
