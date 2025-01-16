@@ -62,7 +62,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 16. Fizz Buzz Game
 
-[//]: # (17. Guessing the number)
+17. Guessing the number
 
 [//]: # (18. Password Generator)
 
