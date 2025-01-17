@@ -64,7 +64,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 17. Guessing the number
 
-[//]: # (18. Password Generator)
+18. Password Generator
 
 [//]: # (19. Rock, Paper, Scissors)
 
