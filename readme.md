@@ -66,19 +66,14 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 18. Password Generator
 
-[//]: # (19. Rock, Paper, Scissors)
-
-[//]: # ()
-[//]: # (### String)
-
-[//]: # (20. String formatting)
+19. Rock, Paper, Scissors
 
 [//]: # ()
 [//]: # (### List)
 
-[//]: # (21. Bill Roulette)
+[//]: # (20. Bill Roulette)
 
-[//]: # (22. Find the gold)
+[//]: # (21. Find the gold)
 
 [//]: # (23. Escaping the maze)
 
