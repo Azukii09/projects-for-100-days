@@ -6,7 +6,7 @@ Create a program which asks for names and select random name from the list of na
 
 ### 📝 Input
 ```
-> Elshad, Edy, Redy, John, Jenny
+> Alvillage, Edy, Redy, John, Jenny
 ```
 
 ### 📤 Output
