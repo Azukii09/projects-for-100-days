@@ -71,36 +71,33 @@ This repository will be updated **daily** with new code examples, challenges, an
 [//]: # ()
 [//]: # (### List)
 
-[//]: # (20. Bill Roulette)
+20. Bill Roulette
 
 [//]: # (21. Find the gold)
 
-[//]: # (23. Escaping the maze)
 
 [//]: # ()
 [//]: # (### Completing basic project)
 
-[//]: # (24. Cryptography with Python: Caesar Cipher)
+[//]: # (22. Cryptography with Python: Caesar Cipher)
 
-[//]: # (25. Story generator)
-
-[//]: # (26. Hangman)
+[//]: # (23. Hangman)
 
 [//]: # ()
 [//]: # (### Dictionary)
 
-[//]: # (27. Calculate total price)
+[//]: # (24. Calculate total price)
 
 [//]: # ()
 [//]: # (### Advanced Level Projects)
 
-[//]: # (28. Blind auctions)
+[//]: # (25. Blind auctions)
 
-[//]: # (29. Quiz app)
+[//]: # (26. Quiz app)
 
-[//]: # (30. English to pig Latin)
+[//]: # (27. English to pig Latin)
 
-[//]: # (31. Music app)
+[//]: # (28. Music app)
 
 [//]: # (32. Power ball lottery)
 
