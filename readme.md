@@ -69,7 +69,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 19. Rock, Paper, Scissors
 
 [//]: # ()
-[//]: # (### List)
+### List
 
 20. Bill Roulette
 
