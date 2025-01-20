@@ -73,7 +73,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 20. Bill Roulette
 
-[//]: # (21. Find the gold)
+21. Find the gold
 
 
 [//]: # ()
