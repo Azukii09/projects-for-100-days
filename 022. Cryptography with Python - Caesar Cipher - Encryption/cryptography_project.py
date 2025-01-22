@@ -1,5 +1,5 @@
 #import function for encryption_cryptography
-from encryption.encryption_cryptography import encrypt_function
+from encryption_cryptography import encrypt_function
 
 #run program for encryption
 print("Encryption!")
