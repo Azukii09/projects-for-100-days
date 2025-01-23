@@ -80,9 +80,10 @@ This repository will be updated **daily** with new code examples, challenges, an
 ### Completing basic project
 
 22. Cryptography with Python: Caesar Cipher - Encryption
+
 23. Cryptography with Python: Caesar Cipher - Decryption
 
-[//]: # (23. Hangman)
+23. Hangman
 
 [//]: # ()
 [//]: # (### Dictionary)
