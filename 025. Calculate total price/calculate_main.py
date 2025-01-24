@@ -9,7 +9,6 @@ item = {
 }
 #define temp var for count total price
 count_total = 0
-
 #program logic
 while True:
     #print out the item list
