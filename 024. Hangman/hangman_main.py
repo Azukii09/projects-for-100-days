@@ -15,7 +15,6 @@ while True:
     print(hangman_stages[live])
     #checking for live
     if live>0:
-        print(missing_word)
         print(" ".join(guesses))
         print("You have {} guesses remaining.".format(live))
         user_guess = input("Guess a letter: ").upper()
