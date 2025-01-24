@@ -76,7 +76,6 @@ This repository will be updated **daily** with new code examples, challenges, an
 21. Find the gold
 
 
-[//]: # ()
 ### Completing basic project
 
 22. Cryptography with Python: Caesar Cipher - Encryption
@@ -85,10 +84,9 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 23. Hangman
 
-[//]: # ()
-[//]: # (### Dictionary)
+### Dictionary
 
-[//]: # (24. Calculate total price)
+24. Calculate total price
 
 [//]: # ()
 [//]: # (### Advanced Level Projects)
