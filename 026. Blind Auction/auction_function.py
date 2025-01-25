@@ -1,7 +1,9 @@
+#define function for new bid
 def add_bid(name_bid,price,bid_l):
     bid_l[name_bid] = price
     return bid_l
 
+#define function for check the winner
 def check_bid_winner(bid_l):
     winner = ["name",0]
     for item in bid_l:
@@ -10,11 +12,13 @@ def check_bid_winner(bid_l):
             winner[1] = bid_l[item]
     return winner
 
+#define function for print all bid
 def print_bids(bid_l):
     print("The participants taking part in the auction:")
     for index,item in enumerate(bid_l):
         print(f"{index+1}. {item} : ${bid_l[item]}")
 
+#logo app
 logo = """
 ██████╗ ██╗     ██╗███╗   ██╗██████╗      █████╗ ██╗   ██╗ ██████╗████████╗██╗ ██████╗ ███╗   ██╗
 ██╔══██╗██║     ██║████╗  ██║██╔══██╗    ██╔══██╗██║   ██║██╔════╝╚══██╔══╝██║██╔═══██╗████╗  ██║

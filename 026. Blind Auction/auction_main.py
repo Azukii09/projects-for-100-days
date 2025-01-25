@@ -1,5 +1,7 @@
+#import package
 from auction_function import print_bids,add_bid,check_bid_winner,logo
 
+#app logic
 bid_list = dict()
 while True:
     print(logo)
@@ -11,6 +13,7 @@ while True:
     if other_bid == "N":
         break
 
+#final output
 auction_winner = check_bid_winner(bid_list)
 print(logo)
 print_bids(bid_list)
