@@ -86,12 +86,13 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 ### Dictionary
 
-24. Calculate total price
+24. Calculate total price 
+25. Blind auctions
+
 
 [//]: # ()
 [//]: # (### Advanced Level Projects)
 
-[//]: # (25. Blind auctions)
 
 [//]: # (26. Quiz app)
 
