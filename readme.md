@@ -82,19 +82,20 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 23. Cryptography with Python: Caesar Cipher - Decryption
 
-23. Hangman
+24. Hangman
 
 ### Dictionary
 
-24. Calculate total price 
-25. Blind auctions
+25. Calculate total price 
 
+26. Blind auctions
+
+27. Quiz app
 
 [//]: # ()
 [//]: # (### Advanced Level Projects)
 
 
-[//]: # (26. Quiz app)
 
 [//]: # (27. English to pig Latin)
 
