@@ -17,8 +17,10 @@ while True:
         # Give each player a turn to answer the question.
         for person in player.keys():
             print(logo)  # Display the logo for aesthetics.
-            print(f"Now it's {person}'s turn to answer")  # Announce the current player's turn.
-            print(f"Current score: {player[person]['score']}")  # Display the current score.
+            # Announce the current player's turn.
+            print(f"Now it's {person}'s turn to answer")
+            # Display the current score.
+            print(f"Current score: {player[person]['score']}")
             print("-" * 40)  # Add a visual separator.
             # Handle the player's turn using the `player_turn` function.
             player[person] = player_turn(question, question_index, player[person])
