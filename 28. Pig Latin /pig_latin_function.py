@@ -8,6 +8,7 @@ logo = """
 ░▒▓█▓▒░      ░▒▓█▓▒░░▒▓██████▓▒░       ░▒▓████████▓▒░▒▓█▓▒░░▒▓█▓▒░ ░▒▓█▓▒░   ░▒▓█▓▒░▒▓█▓▒░░▒▓█▓▒░ 
 """
 
+#Function for converting english word to pig latin version
 def word_change(word):
     vocal = ['a','e','i','o','u']
     word = word.lower()
@@ -16,8 +17,8 @@ def word_change(word):
     for separate_word in list_of_words:
         temp_word = list(separate_word)
         if temp_word[0] not in vocal:
-            tes = temp_word.pop(temp_word.index(temp_word[0]))
-            temp_word.append(tes)
+            swap_word = temp_word.pop(temp_word.index(temp_word[0]))
+            temp_word.append(swap_word)
             temp_word.append("ay")
             new_word.append("".join(temp_word).capitalize())
         else:
