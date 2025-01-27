@@ -92,12 +92,14 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 27. Quiz app
 
+### Tuple
+27. English to pig Latin
+
 [//]: # ()
 [//]: # (### Advanced Level Projects)
 
 
 
-[//]: # (27. English to pig Latin)
 
 [//]: # (28. Music app)
 
