@@ -1,6 +1,6 @@
 from pig_latin_function import logo,word_change
 
-print(word_change("alive"))
+#main logic
 while True:
     print(logo)
     word = input("Type a word to convert: ")
