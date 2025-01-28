@@ -94,6 +94,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 ### Tuple
 27. English to pig Latin
+28. Music app
 
 [//]: # ()
 [//]: # (### Advanced Level Projects)
@@ -101,7 +102,6 @@ This repository will be updated **daily** with new code examples, challenges, an
 
 
 
-[//]: # (28. Music app)
 
 [//]: # (32. Power ball lottery)
 
