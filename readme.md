@@ -96,14 +96,11 @@ This repository will be updated **daily** with new code examples, challenges, an
 27. English to pig Latin
 28. Music app
 
+### set
+32. Power ball lottery
 [//]: # ()
 [//]: # (### Advanced Level Projects)
 
-
-
-
-
-[//]: # (32. Power ball lottery)
 
 [//]: # (33. Flooder game)
 
