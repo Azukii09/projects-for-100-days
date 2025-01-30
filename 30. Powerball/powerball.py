@@ -14,11 +14,10 @@ logo = """
 
 print(logo)
 # Step 1 - Ask the player to enter first 5 numbers between 1 and 69
-
 while True:
-    print("Enter 5 different numbers from 1 to 69, with spaces between \neach number. (For example: 5 17 23 42 50)")
+    print("Enter 5 different numbers from 1 to 69, with spaces between \n"
+          "each number. (For example: 5 17 23 42 50)")
     response = input("> ")
-
     numbers = response.split()
     # Check that the player entered 5 things
     if len(numbers) != 5:
@@ -79,7 +78,8 @@ while True:
 
 # Step 4 - Run the simulation
 price = '$' + str(2 * numPlays)
-print(f"It costs {price} to play {numPlays} times, but dont \nworry. I'm sure you will win it all back.")
+print(f"It costs {price} to play {numPlays} times, but dont \n"
+      f"worry. I'm sure you will win it all back.")
 input("Press Enter to start...")
 possibleNumbers = list(range(1,70))
 for i in range(numPlays):
@@ -95,9 +95,11 @@ for i in range(numPlays):
     allWinningNumbers += "and " + str(winningPowerball)
     print(allWinningNumbers, end = "")
     #  Check for winner
-    if (set(numbers) == set(winningNumbers) and powerball == winningPowerball):
+    if (set(numbers) == set(winningNumbers) and
+            powerball == winningPowerball):
         print()
-        print("You have won the powerball Lottery! Congratulations.")
+        print("You have won the powerball Lottery! "
+              "Congratulations.")
         break
     else:
         print(" You Lost.")
