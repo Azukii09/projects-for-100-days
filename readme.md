@@ -102,9 +102,10 @@ This repository will be updated **daily** with new code examples, challenges, an
 ### Mid Level Projects
 33. Flooder game
 
-[//]: # (34. Black jack)
+34. Black jack
 
-[//]: # (35. Phone and email scrapper)
+### Regex
+35. Phone and email scrapper
 
 [//]: # (36. Strong Password Detection using Local Development Environment)
 
