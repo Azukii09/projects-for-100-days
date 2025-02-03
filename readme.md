@@ -107,7 +107,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 ### Regex
 35. Phone and email scrapper
 
-[//]: # (36. Strong Password Detection using Local Development Environment)
+36. Strong Password Checker
 
 [//]: # (37. Display directory tree)
 
