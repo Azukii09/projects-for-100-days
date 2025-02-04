@@ -8,7 +8,7 @@ Implement a Python function which displays all files and folders from current di
 display_tree()
 ```
 
-### Example Output 
+### Example Output  
 
 ```
 + /Users/elshad/Desktop/Python For Everyone/Projects/DisplayTreeDirectory
