@@ -112,7 +112,7 @@ This repository will be updated **daily** with new code examples, challenges, an
 ### Files and Directories
 37. Find last modified file
 
-[//]: # (37. Display directory tree)
+38. Display directory tree
 
 [//]: # (38. Rename all file in directory )
 
