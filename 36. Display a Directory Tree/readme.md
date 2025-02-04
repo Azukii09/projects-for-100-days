@@ -11,19 +11,7 @@ display_tree()
 ### Example Output  
 
 ```
-+ /Users/elshad/Desktop/Python For Everyone/Projects/DisplayTreeDirectory
-    + .idea
-        + .gitignore
-        + DisplayTreeDirectory.iml
-        + inspectionProfiles
-            + profiles_settings.xml
-        + misc.xml
-        + modules.xml
-        + workspace.xml
-    + main.py
-    + venv
-        + .gitignore
-        + bin
-            + activate
-            + activate.csh
++ /Users/alvillage/Documents/Development/python/2024/projects-for-100-days/36. Display a Directory Tree
+    + finddir_main.py
+    + readme.md
 ```
